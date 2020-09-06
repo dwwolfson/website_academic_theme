@@ -48,6 +48,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=HZEi2SAAAAAJ&hl=en
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/David_Wolfson5
 - icon: github
   icon_pack: fab
   link: https://github.com/dwwolfson
