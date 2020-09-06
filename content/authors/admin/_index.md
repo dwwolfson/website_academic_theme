@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: 
 
 interests:
 - Animal Movement
@@ -42,12 +42,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:wolfs064@umn.edu"
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/dwwolfson
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=HZEi2SAAAAAJ&hl=en
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/dwwolfson
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/David_Wolfson5
