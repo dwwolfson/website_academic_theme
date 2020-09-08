@@ -21,12 +21,15 @@ organizations:
 # bio: 
 
 interests:
-- Animal Movement
+- Movement Ecology
 - Migration
-- Rstats
+- Resource Selection
 
 education:
   courses:
+  - course: PhD in Wildlife Ecology
+    institution: University of Minnesota
+    year: 2019 - present
   - course: MS in Wildlife Ecology
     institution: University of Minnesota
     year: 2017
@@ -70,4 +73,5 @@ user_groups:
 - Visitors
 ---
 
-David is a PhD student. More to come...
+I'm a Wildlife Ecology currently in a PhD program at the University of Minnesota. My research interests focus on the quantitative study of population ecology and animal movement. My grad research is studying the Interior Population of trumpeter swans throughout the greater Midwest. For more infomation on the project go to: https://trumpeterswan.netlify.app/.
+
