@@ -73,5 +73,5 @@ user_groups:
 - Visitors
 ---
 
-I'm a Wildlife Ecologist currently in a PhD program at the University of Minnesota. My research interests focus on the quantitative study of population ecology and animal movement. My grad research is studying the Interior Population of trumpeter swans throughout the greater Midwest. For more infomation on the project go to: https://trumpeterswan.netlify.app/.
+I'm a Wildlife Ecologist currently in a PhD program at the University of Minnesota. My research interests include investigating the drivers of animal movement and applying the knowledge of dynamic animal space use to inform wildlife management and conservation. My grad research looks at multiple aspects of movemand and spatial ecology, genetics and ecotoxicology of the Interior Population of trumpeter swans throughout the greater Midwest. For more infomation on the project go to: https://trumpeterswan.netlify.app/.
 
