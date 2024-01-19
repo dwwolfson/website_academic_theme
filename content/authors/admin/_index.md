@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD student
+role: PhD candidate
 
 # Organizations/Affiliations
 organizations:
@@ -24,16 +24,17 @@ interests:
 - Movement Ecology
 - Migration
 - Resource Selection
+- Population Genomics
 
 education:
   courses:
-  - course: PhD in Wildlife Ecology
+  - course: PhD Wildlife Ecology
     institution: University of Minnesota
     year: 2019 - present
-  - course: MS in Wildlife Ecology
+  - course: MS Wildlife Ecology
     institution: University of Minnesota
     year: 2017
-  - course: BSc in Biology
+  - course: BA Biology
     institution: Earlham College
     year: 2005
 
