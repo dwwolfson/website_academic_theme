@@ -47,12 +47,7 @@ projects: []
 publishDate: '2023-06-16T16:42:25.736658Z'
 publication_types:
 - '2'
-abstract: Invasion of nonindigenous species is considered one of the most urgent problems
-  affecting native ecosystems and agricultural systems. Mechanistic models that account
-  for short-term population dynamics can improve prediction because they incorporate
-  differing demographic processes that link the environmental conditions of a spatial
-  location explicitly with the invasion process. Yet short-term population dynamics
-  are rarely accounted for in spatial models of invasive species spread.
+abstract: Invasion of nonindigenous species is considered one of the most urgent problems affecting native ecosystems and agricultural systems. Mechanistic models that account for short-term population dynamics can improve prediction because they incorporate differing demographic processes that link the environmental conditions of a spatial location explicitly with the invasion process. Yet short-term population dynamics are rarely accounted for in spatial models of invasive species spread.
 publication: '*Biological Invasions*'
 doi: 10.1007/s10530-023-03047-x
 ---
