@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD candidate
+role: Post-Doc
 
 # Organizations/Affiliations
 organizations:
@@ -21,16 +21,16 @@ organizations:
 # bio: 
 
 interests:
+- Quantitative Ecology 
 - Movement Ecology
-- Migration
-- Resource Selection
+- Population Modeling
 - Population Genomics
 
 education:
   courses:
   - course: PhD Wildlife Ecology
     institution: University of Minnesota
-    year: 2019 - present
+    year: 2019 - 2024
   - course: MS Wildlife Ecology
     institution: University of Minnesota
     year: 2017
@@ -49,9 +49,6 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=HZEi2SAAAAAJ&hl=en
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/dwwolfson
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/David_Wolfson5
@@ -74,5 +71,5 @@ user_groups:
 - Visitors
 ---
 
-I'm a wildlife ecologist currently in a PhD program at the University of Minnesota. My research interests include investigating the drivers of animal movement and applying the knowledge of dynamic animal space use to inform wildlife management and conservation. My grad research looks at multiple aspects of trumpeter swan movement ecology, genetics, and ecotoxicology. For more information on the project go to: https://trumpeterswan.netlify.app/.
+I'm a wildlife ecologist currently serving as a Postdoc at the University of Minnesota. For my current research topic, I'm building an Integrated Population Model for the Interior Population of Trumpeter Swans. My research interests include a variety of topics including demographic population modeling, investigating the drivers of animal movement (particularly aspects of migration), and applying the knowledge of dynamic animal space use to inform wildlife management and conservation. 
 
